@@ -185,6 +185,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport
   bootsnap (>= 1.1.0)
   byebug (= 9.0.6)
   capybara (>= 2.15, < 4.0)
